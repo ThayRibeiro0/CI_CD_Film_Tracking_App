@@ -14,6 +14,20 @@ This project demonstrates a basic **CI/CD pipeline** setup using **GitHub Action
 - Render (for deployment)
 - Node.js / Express / MongoDB (application stack)
 
+## Screenshots
+
+<div>
+<p>| Home Screen |</p>
+
+  <img src="./screenshot/home.png" alt="home" width="600" height="300">
+<p>| Quiz Question |</p> 
+
+  <img src="./screenshot/question.png" alt="question" width="600" height="300">
+<p>| Final Result |</p> 
+
+  <img src="./screenshot/result.png" alt="result" width="600" height="300">
+</div>
+
 
 ## Deployed Application
 
