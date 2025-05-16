@@ -14,20 +14,6 @@ This project demonstrates a basic **CI/CD pipeline** setup using **GitHub Action
 - Render (for deployment)
 - Node.js / Express / MongoDB (application stack)
 
-## Setup Instructions
-
-1. Download starter code and push it to a new GitHub repo.
-2. Set up `develop` and `main` branches.
-3. Add GitHub Actions YAML files under `.github/workflows/`.
-4. Deploy app manually to Render the first time.
-5. Turn off auto-deploy on Render and copy the deploy hook.
-6. Add `RENDER_DEPLOY_HOOK_URL` to GitHub repository secrets.
-
-## GitHub Actions
-
-- `.github/workflows/checking_tests.yml` → Runs Cypress tests on PR to `develop`
-- `.github/workflows/deploy_to_render.yml` → Deploys app to Render on merge to `main`
-
 ## Screenshots
 
 ### ✅ Test Workflow
@@ -40,9 +26,14 @@ This project demonstrates a basic **CI/CD pipeline** setup using **GitHub Action
 
 [Film_Tracking_App]()
 
+## Repo Link
+
+[CI/CD_Pipeline](https://github.com/ThayRibeiro0/film-tracking-app)
+
 ## Notes
 
 > This project is part of the **Module 20 Challenge** for the UCI Full-Stack Bootcamp.  
+> Code based on Film_tracker of mini_project
 
 ## License
 
