@@ -29,6 +29,10 @@ This project demonstrates a basic **CI/CD pipeline** setup using **GitHub Action
 
 > This project is part of the **Module 20 Challenge** for the UCI Full-Stack Bootcamp.  
 > Code based on Film_tracker of mini_project
+> Others references:
+  - https://www.youtube.com/watch?v=YLtlz88zrLg
+  - https://www.youtube.com/shorts/Kq28yBigDYw
+  - https://www.youtube.com/watch?v=ylEy4eLdhFs
 
 
 ## License
