@@ -21,7 +21,9 @@ This project demonstrates a basic **CI/CD pipeline** setup using **GitHub Action
 
 ## Repo Link
 
-[CI/CD_Pipeline](https://github.com/ThayRibeiro0/film-tracking-app)
+- [CI/CD_Pipeline][(https://github.com/ThayRibeiro0/film-tracking-app](https://github.com/ThayRibeiro0/CI_CD_Film_Tracking_App))
+
+- [Gist][https://gist.github.com/ThayRibeiro0/ac189737f91a768ba3fb362fd6600786](https://gist.github.com/ThayRibeiro0/ac189737f91a768ba3fb362fd6600786)
 
 ## Notes
 
