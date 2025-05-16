@@ -14,13 +14,6 @@ This project demonstrates a basic **CI/CD pipeline** setup using **GitHub Action
 - Render (for deployment)
 - Node.js / Express / MongoDB (application stack)
 
-## Screenshots
-
-### ✅ Test Workflow
-![GitHub Actions Cypress Test](./screenshot/test-success.png)
-### 🚀 Deploy Workflow
-![GitHub Actions Render Deploy](./screenshot/render-deploy.png)
-
 
 ## Deployed Application
 
